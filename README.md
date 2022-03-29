@@ -1,2 +1,2 @@
-# HTMLCSSJavascriptProject
+# HTMLCSSJavascriptProjects
 Random Projects 
